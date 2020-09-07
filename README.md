@@ -2,7 +2,7 @@
 
  <p>   
   <img src="http://views.whatilearened.today/views/github/JJaraM/views.svg"/> 
-  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+  <img src="https://img.shields.io/badge/Back%20End-Java-red"/>
   <img src="https://img.shields.io/badge/Front%20End-React-red"/>
  
     <a href="https://github.com/JJaraM/">
