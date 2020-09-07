@@ -3,7 +3,8 @@
  <p>   
   <img src="http://views.whatilearened.today/views/github/JJaraM/views.svg"/> 
   <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
-   <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+  <img src="https://img.shields.io/badge/Front%20End-React-red"/>
+ 
     <a href="https://github.com/JJaraM/">
       <img src="https://img.shields.io/github/followers/JJaraM?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
     </a>
