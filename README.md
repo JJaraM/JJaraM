@@ -4,13 +4,13 @@
   <img src="http://views.whatilearened.today/views/github/JJaraM/views.svg"/> 
   <img src="https://img.shields.io/badge/Back%20End-Java-red"/>
   <img src="https://img.shields.io/badge/Front%20End-React-red"/>
- 
-    <a href="https://github.com/JJaraM/">
-      <img src="https://img.shields.io/github/followers/JJaraM?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
-    </a>
-    <a href="https://github.com/Kamilahsantos?tab=repositories">
-      <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+  
+  <a href="https://github.com/JJaraM/">
+     <img src="https://img.shields.io/github/followers/JJaraM?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
   </a>
+  <a href="https://github.com/Kamilahsantos?tab=repositories">
+     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+   </a>
 </p>
 
 
