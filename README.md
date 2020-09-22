@@ -28,4 +28,4 @@ I am an software engineer and a person who loves create new projects.
 
 - Name: Jonathan Jara Morales
 - Web Site: [Jonathan Jara Morales | Personal Blog](http://jonathanjaramorales.herokuapp.com/)
-- LinkedIn: [linkedin.com/in/kamila-santos-oliveira](https://www.linkedin.com/in/jonathan-jara-morales)
+- LinkedIn: [linkedin.com/in/jonathan-jara-morales](https://www.linkedin.com/in/jonathan-jara-morales)
