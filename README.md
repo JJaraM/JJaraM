@@ -19,9 +19,9 @@ My name is Jonathan Jara from Costa Rica. I'm Backend Developer at [ICE Data Ser
 
 I am an software engineer and a person who loves create new projects. 
 
-![JJaraM's github stats](https://github-readme-stats.vercel.app/api?username=JJaraM&show_icons=true&theme=radical)
+![JJaraM's github stats](https://github-readme-stats.vercel.app/api?username=JJaraM&show_icons=true&theme=calm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJaraM&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJaraM&theme=calm&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  About me
